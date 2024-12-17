@@ -134,6 +134,8 @@ public:     // api for seeed graphical programming project
             case 'Z':
             return acc_xyz[2];
         }
+
+        return 0;
     }
 
     
